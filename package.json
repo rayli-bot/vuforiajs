@@ -1,30 +1,25 @@
 {
-  "name": "vuforiajs",
-  "version": "0.3.0",
+  "name": "vuforia-web-service",
+  "version": "1.0.0",
   "description": "Node.js client for the Vuforia Web Services API (VWS API) and Cloud Recognition API (CloudReco API)",
   "main": "vuforia.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pwasem/vuforiajs"
+    "url": "https://github.com/rayli-bot/vuforiajs"
   },
   "keywords": [
     "vuforia",
     "vws",
     "api",
-    "augmented",
-    "reality",
     "cloud",
     "target",
     "image",
     "recognition"
   ],
-  "author": "pascal.wasem@googlemail.com",
+  "author": "ray.li.cmd@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pwasem/vuforiajs/issues"
+    "url": "https://github.com/rayli-bot/vuforiajs/issues"
   },
-  "homepage": "https://github.com/pwasem/vuforiajs"
+  "homepage": "https://github.com/rayli-bot/vuforiajs"
 }
